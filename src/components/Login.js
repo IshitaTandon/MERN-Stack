@@ -44,7 +44,7 @@ export class Login extends Component {
                <main>
                    <header className="jumbotron">
                        <h1 className="text-center">
-                           Admin Panel
+                           Admin Panel(Master)
                        </h1>
                    </header>
                    <section className="container">
